@@ -1,1 +1,5 @@
 Este é o exemplo de um ficheiro de texto file3
+a
+b
+c
+adicionei mais linhas ao ficheiro file3.txt!!
